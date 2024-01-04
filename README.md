@@ -1,3 +1,20 @@
+# UAS CRUD APP WEB Pesan baju custom
+
+Create 
+
+![create](https://github.com/randi9/UAS-WEB/blob/main/gif/create.gif)
+
+Update 
+
+![update](https://github.com/randi9/UAS-WEB/blob/main/gif/Update%20.gif)
+
+delete
+
+![delete](https://github.com/randi9/UAS-WEB/blob/main/gif/delete.gif)
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +51,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Mohon maaf pak tidak hosting di web dikarenakan ada erorr saat npm run build di lokal dan di hostingan jusa sama masalahnya, Sudah berusaha tapi masih belum ada solusi
+
+### Muhamad Randi Septiansah
+
+### NIM 1217050086
